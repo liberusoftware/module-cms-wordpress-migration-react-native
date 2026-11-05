@@ -1,7 +1,7 @@
 {
-  "name": "@liberusoftware/module-boilerplate-react-native",
+  "name": "@liberusoftware/module-cms-wordpress-migration-react-native",
   "version": "0.1.0-alpha.0",
-  "description": "Liberu React Native \u00b7 Expo presentation module foundation",
+  "description": "WordPress Migration \u2014 React Native \u00b7 Expo presentation skeleton",
   "type": "module",
   "license": "MIT",
   "files": [
@@ -40,6 +40,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/liberusoftware/module-boilerplate-react-native.git"
+    "url": "https://github.com/liberusoftware/module-cms-wordpress-migration-react-native.git"
   }
 }
